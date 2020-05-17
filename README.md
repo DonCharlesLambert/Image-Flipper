@@ -1,8 +1,7 @@
 # Image Flipper
 
 ## Introduction
-Flips all images in a folder.  
-Simple problem, simple solution!
+I had a sprite sheet that only contained the character looking right. Thoroughly outraged in the lack of online resources to flip multiple images quickly, I decided to make a simple command line application that flips all images in a folder vertically.
 
 ## Prerequisites
 |Java|
